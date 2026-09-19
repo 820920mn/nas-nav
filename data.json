@@ -219,8 +219,8 @@
       "url": "https://mcx.llyg.fun:29292/#/overview",
       "icon": "metacube-xd-1",
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/metacube-xd-1.png",
-      "color": "#FFFFFF",
-      "desc": "概览面板",
+      "color": "#ffffff",
+      "desc": "代理软件管理",
       "categoryId": "c1",
       "sort": 15,
       "category": "飞牛服务"
