@@ -242,6 +242,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7vyg1pynfko",
       "desc": "BT下载"
+    },
+    {
+      "id": "id_mu7w17s83tmn3",
+      "sort": 17,
+      "name": "Rousi",
+      "url": "https://rousi.zip/attendance.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7vynq7dou92",
+      "desc": "Rousi PT 签到"
     }
   ]
 }
