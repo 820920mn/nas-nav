@@ -153,7 +153,7 @@
       "id": "id_mu7wfonbtrr1x",
       "sort": 31,
       "name": "Transmission",
-      "url": "http://192.168.1.250:9091/transmission/web/",
+      "url": "https://tr.llyg.fun:29292/",
       "icon": "T",
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/transmission-1.png",
       "color": "#ffffff",
