@@ -209,6 +209,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7vyg1pynfko",
       "desc": "网盘聚合"
+    },
+    {
+      "id": "id_mu7w0r7ul7osr",
+      "sort": 14,
+      "name": "飞牛fnOS",
+      "url": "https://llyg.fun:5667/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7vyg1pynfko",
+      "desc": "飞牛私有云"
     }
   ]
 }
