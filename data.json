@@ -801,6 +801,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "BT下载发布页"
+    },
+    {
+      "id": "id_mu7wibfkaxnwm",
+      "sort": 66,
+      "name": "动漫Nyaa",
+      "url": "https://nyaa.land/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "动漫资源站"
     }
   ]
 }
