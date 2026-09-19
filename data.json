@@ -1076,6 +1076,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "字幕下载"
+    },
+    {
+      "id": "id_mu7wk2sfky3ln",
+      "sort": 91,
+      "name": "SimpleHac",
+      "url": "https://www.simplehac.cn/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "资源社"
     }
   ]
 }
