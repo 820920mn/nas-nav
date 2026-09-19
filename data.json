@@ -1186,6 +1186,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "活动软件分享"
+    },
+    {
+      "id": "id_mu7wkoiwi1uvp",
+      "sort": 101,
+      "name": "Crx搜搜",
+      "url": "https://www.crxsoso.com/webstore/category/extensions",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "Chrome扩展"
     }
   ]
 }
