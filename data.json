@@ -680,6 +680,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "NexusPHP"
+    },
+    {
+      "id": "id_mu7whd7o6w6pr",
+      "sort": 55,
+      "name": "星陨阁",
+      "url": "https://pt.xingyungept.org/torrents.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "星陨阁"
     }
   ]
 }
