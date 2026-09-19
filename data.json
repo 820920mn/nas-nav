@@ -1098,6 +1098,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "天翼云盘"
+    },
+    {
+      "id": "id_mu7wk74ykyahl",
+      "sort": 93,
+      "name": "网盘资源避难所",
+      "url": "https://suenen.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "全网资源分享"
     }
   ]
 }
