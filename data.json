@@ -1351,6 +1351,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "服务包合集"
+    },
+    {
+      "id": "id_mu7wll55nmxyx",
+      "sort": 116,
+      "name": "飞牛门户",
+      "url": "https://club.fnnas.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "飞牛社区"
     }
   ]
 }
