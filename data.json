@@ -173,17 +173,6 @@
       "desc": "大青虫 PT 签到"
     },
     {
-      "id": "id_mu7w1inuvo3su",
-      "sort": 21,
-      "name": "lajidui",
-      "url": "https://pt.lajidui.top/attendance.php",
-      "icon": "L",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=pt.lajidui.top&sz=64",
-      "color": "#ffffff",
-      "categoryId": "id_mu7vynq7dou92",
-      "desc": "lajidui 签到"
-    },
-    {
       "id": "id_mu7w1ldobauhb",
       "sort": 22,
       "name": "思齐",
