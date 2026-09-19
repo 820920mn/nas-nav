@@ -889,6 +889,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "4K电影下载"
+    },
+    {
+      "id": "id_mu7wistetaswj",
+      "sort": 74,
+      "name": "BT世界网",
+      "url": "https://www.btsj6.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "BT种子下载"
     }
   ]
 }
