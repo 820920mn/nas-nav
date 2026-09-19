@@ -845,6 +845,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "沸羊羊字幕组"
+    },
+    {
+      "id": "id_mu7wik4fxzzbp",
+      "sort": 70,
+      "name": "动漫花园",
+      "url": "https://dmhy.iwiki.icu/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "动漫资源网"
     }
   ]
 }
