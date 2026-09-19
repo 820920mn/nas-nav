@@ -592,6 +592,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "财神PT"
+    },
+    {
+      "id": "id_mu7wgvtzgls3l",
+      "sort": 47,
+      "name": "蟹黄堡",
+      "url": "https://crabpt.vip/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "蟹黄堡PT"
     }
   ]
 }
