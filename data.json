@@ -1208,6 +1208,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "Mac软件下载"
+    },
+    {
+      "id": "id_mu7wksvg8bd7m",
+      "sort": 103,
+      "name": "苹果系统之家",
+      "url": "https://macoshome.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "mac软件教程"
     }
   ]
 }
