@@ -339,6 +339,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wele21vjx5",
       "desc": "媒体库管理"
+    },
+    {
+      "id": "id_mu7wf9fv5qqqp",
+      "sort": 24,
+      "name": "Navidrome",
+      "url": "http://192.168.1.250:4533/app/#/song",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wele21vjx5",
+      "desc": "音乐流媒体"
     }
   ]
 }
