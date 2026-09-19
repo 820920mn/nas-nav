@@ -1175,6 +1175,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "涟漪解析"
+    },
+    {
+      "id": "id_mu7wkmcnz07u4",
+      "sort": 100,
+      "name": "小刀娱乐网",
+      "url": "https://www.xiaodao1.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "活动软件分享"
     }
   ]
 }
