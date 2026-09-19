@@ -240,61 +240,6 @@
       "desc": "BT下载"
     },
     {
-      "id": "id_mu7wfz923cweq",
-      "sort": 0,
-      "name": "M-Team",
-      "url": "https://next.m-team.cc/index",
-      "icon": "M",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
-      "desc": "馒头PT"
-    },
-    {
-      "id": "id_mu7wg1f8sn12l",
-      "sort": 0,
-      "name": "HDHome",
-      "url": "http://hdhome.org/index.php",
-      "icon": "H",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
-      "desc": "高清家园"
-    },
-    {
-      "id": "id_mu7wg3ledw55x",
-      "sort": 0,
-      "name": "HHCLUB",
-      "url": "https://hhanclub.top/index.php",
-      "icon": "H",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
-      "desc": "HHCLUB"
-    },
-    {
-      "id": "id_mu7wg5rmx3ei5",
-      "sort": 0,
-      "name": "UBits",
-      "url": "https://ubits.club/",
-      "icon": "U",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
-      "desc": "UBits"
-    },
-    {
-      "id": "id_mu7wg7xstm529",
-      "sort": 36,
-      "name": "织梦",
-      "url": "https://zmpt.cc/index.php",
-      "icon": "织",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
-      "desc": "织梦PT"
-    },
-    {
       "id": "id_mu7wga40pip49",
       "sort": 37,
       "name": "HDFans",
@@ -1087,17 +1032,6 @@
       "sort": 0
     },
     {
-      "id": "id_1789794902872_10",
-      "name": "当下软件园",
-      "url": "http://www.downxia.com/",
-      "icon": "当",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
-      "sort": 0
-    },
-    {
       "id": "id_1789794902872_11",
       "name": "首页",
       "url": "https://assrt.net/",
@@ -1274,17 +1208,6 @@
       "sort": 0
     },
     {
-      "id": "id_1789794902872_27",
-      "name": "电影港_高清电影下载_720p高清_1080p高清",
-      "url": "http://www.dygangs.me/",
-      "icon": "电",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "影视资源",
-      "categoryId": "id_mu7weqtb7exjj",
-      "sort": 0
-    },
-    {
       "id": "id_1789794902872_28",
       "name": "TTG",
       "url": "https://totheglory.im/index.php",
@@ -1329,32 +1252,10 @@
       "sort": 0
     },
     {
-      "id": "id_1789794902872_32",
-      "name": "HHCLUB",
-      "url": "https://hhanclub.net/index.php",
-      "icon": "H",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "PT站点",
-      "categoryId": "id_mu7weo3ozm4jt",
-      "sort": 0
-    },
-    {
       "id": "id_1789794902872_33",
       "name": "ＰＴ之友俱乐部",
       "url": "https://pterclub.net/index.php?&noredir=1",
       "icon": "Ｐ",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "PT站点",
-      "categoryId": "id_mu7weo3ozm4jt",
-      "sort": 0
-    },
-    {
-      "id": "id_1789794902872_34",
-      "name": "HDDolby",
-      "url": "https://www.hddolby.com/index.php",
-      "icon": "H",
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT站点",
@@ -1461,43 +1362,10 @@
       "sort": 35
     },
     {
-      "id": "id_1789794902872_44",
-      "name": "OpenCD",
-      "url": "https://open.cd/",
-      "icon": "O",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "PT签到",
-      "categoryId": "id_mu7vynq7dou92",
-      "sort": 0
-    },
-    {
-      "id": "id_1789794902872_45",
-      "name": "Audiences",
-      "url": "https://audiences.me/index.php",
-      "icon": "A",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "PT签到",
-      "categoryId": "id_mu7vynq7dou92",
-      "sort": 0
-    },
-    {
       "id": "id_1789794902872_46",
       "name": "HDSky",
       "url": "https://hdsky.me/index.php",
       "icon": "H",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "PT签到",
-      "categoryId": "id_mu7vynq7dou92",
-      "sort": 0
-    },
-    {
-      "id": "id_1789794902872_47",
-      "name": "OurBits",
-      "url": "https://ourbits.club/index.php",
-      "icon": "O",
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT签到",
@@ -1527,17 +1395,6 @@
       "sort": 0
     },
     {
-      "id": "id_1789794902872_50",
-      "name": "猪猪",
-      "url": "https://piggo.me/messages.php?action=viewmessage&id=1973260",
-      "icon": "猪",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "PT签到",
-      "categoryId": "id_mu7vynq7dou92",
-      "sort": 0
-    },
-    {
       "id": "id_1789794902872_51",
       "name": "大青虫",
       "url": "https://cyanbug.net/index.php",
@@ -1560,54 +1417,10 @@
       "sort": 0
     },
     {
-      "id": "id_1789794902872_53",
-      "name": "飞鸟云",
-      "url": "https://rhsahjasa.459245.xyz/#/dashboard",
-      "icon": "飞",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "网络服务",
-      "categoryId": "c6",
-      "sort": 0
-    },
-    {
-      "id": "id_1789794902872_54",
-      "name": "农夫山泉",
-      "url": "https://www.nfsq.us/#/dashboard",
-      "icon": "农",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "网络服务",
-      "categoryId": "c6",
-      "sort": 0
-    },
-    {
-      "id": "id_1789794902872_55",
-      "name": "一分机场",
-      "url": "https://xn--4gqx1hgtfdmt.com/#/dashboard",
-      "icon": "一",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "网络服务",
-      "categoryId": "c6",
-      "sort": 0
-    },
-    {
       "id": "id_1789794902872_56",
       "name": "PT监护室",
       "url": "https://savept.icu/",
       "icon": "P",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
-      "sort": 0
-    },
-    {
-      "id": "id_1789794902872_57",
-      "name": "auto_feed",
-      "url": "https://greasyfork.org/zh-CN/scripts/424132-auto-feed",
-      "icon": "A",
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
@@ -1725,28 +1538,6 @@
       "sort": 0
     },
     {
-      "id": "id_1789794902872_68",
-      "name": "赔钱机场",
-      "url": "https://xn--cp3a08l.com/dashboard",
-      "icon": "赔",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "网络服务",
-      "categoryId": "c6",
-      "sort": 0
-    },
-    {
-      "id": "id_1789794902872_69",
-      "name": "Manage Product",
-      "url": "https://billing.chunkserve.com/clientarea.php?action=productdetails&id=4957",
-      "icon": "M",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
-      "sort": 0
-    },
-    {
       "id": "id_1789794902872_70",
       "name": "PTerClub Image Hosting Service",
       "url": "https://s3.pterclub.net/image/p2934595836.asXMor",
@@ -1769,17 +1560,6 @@
       "sort": 0
     },
     {
-      "id": "id_1789794902872_72",
-      "name": "域名管理器应用程序",
-      "url": "https://www.spaceship.com/zh/application/domain-list-application/",
-      "icon": "域",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
-      "sort": 0
-    },
-    {
       "id": "id_1789794902872_73",
       "name": "Script Installation | Tampermonkey",
       "url": "https://www.tampermonkey.net/script_installation.php#url=https://gitee.com/tomorrow505/auto_feed_js/raw/master/auto_feed.user.js",
@@ -1788,17 +1568,6 @@
       "color": "#FFFFFF",
       "desc": "工具资源",
       "categoryId": "id_mu7wetiw466fx",
-      "sort": 0
-    },
-    {
-      "id": "id_1789794902872_74",
-      "name": "帐户主页 | 717115676@qq.com's Account | Cloudflare",
-      "url": "https://dash.cloudflare.com/9f86f35883e2cd7c707ee0652bd91b1c/home/domains",
-      "icon": "帐",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "网络服务",
-      "categoryId": "c6",
       "sort": 0
     },
     {
