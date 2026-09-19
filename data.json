@@ -515,6 +515,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "北极种子保险库"
+    },
+    {
+      "id": "id_mu7wggmld078b",
+      "sort": 40,
+      "name": "HDKylin",
+      "url": "https://www.hdkyl.in/index.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "麒麟PT"
     }
   ]
 }
