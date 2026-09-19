@@ -702,6 +702,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "蜂巢PT"
+    },
+    {
+      "id": "id_mu7whhk1x7v5r",
+      "sort": 57,
+      "name": "PThub",
+      "url": "https://www.pthub.cc/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "PT导航大全"
     }
   ]
 }
