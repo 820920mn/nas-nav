@@ -68,6 +68,11 @@
       "id": "id_mu7weqtb7exjj",
       "name": "影视资源",
       "sort": 10
+    },
+    {
+      "id": "id_mu7wetiw466fx",
+      "name": "工具资源",
+      "sort": 11
     }
   ],
   "links": [
