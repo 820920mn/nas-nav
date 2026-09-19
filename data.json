@@ -1010,6 +1010,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "磁力地址发布页"
+    },
+    {
+      "id": "id_mu7wjgpwfputk",
+      "sort": 85,
+      "name": "人人电影网",
+      "url": "https://www.rrdynb.com/index.html",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "百度云盘电影"
     }
   ]
 }
