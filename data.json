@@ -1087,6 +1087,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "资源社"
+    },
+    {
+      "id": "id_mu7wk4yp1veno",
+      "sort": 92,
+      "name": "天翼云盘",
+      "url": "https://cloud.189.cn/web/login.html",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "天翼云盘"
     }
   ]
 }
