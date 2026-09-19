@@ -1480,7 +1480,7 @@
       "icon": "容",
       "iconUrl": "",
       "color": "#059669",
-      "desc": "",
+      "desc": "实时监控多种容器镜像源的加速器状态，帮助开发者选择最佳的镜像源",
       "categoryId": "c14",
       "sort": 1107,
       "category": "nas相关"
