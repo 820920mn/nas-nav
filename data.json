@@ -713,6 +713,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "PT导航大全"
+    },
+    {
+      "id": "id_mu7whu1s5edbu",
+      "sort": 58,
+      "name": "雷鲸小站",
+      "url": "https://www.leijing.xyz/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "天翼云盘交流"
     }
   ]
 }
