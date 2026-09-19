@@ -176,6 +176,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7vyg1pynfko",
       "desc": ""
+    },
+    {
+      "id": "id_mu7w0d5bidh33",
+      "sort": 11,
+      "name": "MoviePilot",
+      "url": "http://llyg.fun:3033/#/dashboard",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7vyg1pynfko",
+      "desc": "媒体库管理"
     }
   ]
 }
