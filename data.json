@@ -757,6 +757,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "4K电影下载"
+    },
+    {
+      "id": "id_mu7wi2qnkdya0",
+      "sort": 62,
+      "name": "奈飞中文",
+      "url": "https://www.naifei1.org/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "影视剧集弹幕网"
     }
   ]
 }
