@@ -559,6 +559,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "咖啡PT"
+    },
+    {
+      "id": "id_mu7wgpbdbkhor",
+      "sort": 44,
+      "name": "DiscFan",
+      "url": "https://discfan.net/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "DiscFan"
     }
   ]
 }
