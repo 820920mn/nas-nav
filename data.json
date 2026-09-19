@@ -570,6 +570,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "DiscFan"
+    },
+    {
+      "id": "id_mu7wgrhkl75mb",
+      "sort": 45,
+      "name": "青蛙",
+      "url": "https://qingwapt.com/index.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "青蛙PT"
     }
   ]
 }
