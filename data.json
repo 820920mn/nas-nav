@@ -834,6 +834,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "免费看动漫"
+    },
+    {
+      "id": "id_mu7wihy7mie8k",
+      "sort": 69,
+      "name": "Mikan Project",
+      "url": "https://mikanani.kas.pub/Home/PublishGroup/415",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "沸羊羊字幕组"
     }
   ]
 }
