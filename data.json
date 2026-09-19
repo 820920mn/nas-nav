@@ -28,6 +28,11 @@
   },
   "categories": [
     {
+      "id": "id_mu7vyg1pynfko",
+      "name": "飞牛反代",
+      "sort": 0
+    },
+    {
       "id": "c2",
       "name": "媒体娱乐",
       "sort": 1
@@ -45,32 +50,27 @@
     {
       "id": "c6",
       "name": "网络服务",
-      "sort": 5
-    },
-    {
-      "id": "id_mu7vyg1pynfko",
-      "name": "飞牛反代",
-      "sort": 6
+      "sort": 4
     },
     {
       "id": "id_mu7vynq7dou92",
       "name": "PT签到",
-      "sort": 7
+      "sort": 5
     },
     {
       "id": "id_mu7weo3ozm4jt",
       "name": "PT站点",
-      "sort": 9
+      "sort": 6
     },
     {
       "id": "id_mu7weqtb7exjj",
       "name": "影视资源",
-      "sort": 10
+      "sort": 7
     },
     {
       "id": "id_mu7wetiw466fx",
       "name": "工具资源",
-      "sort": 11
+      "sort": 8
     }
   ],
   "links": [
