@@ -449,6 +449,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "高清家园"
+    },
+    {
+      "id": "id_mu7wg3ledw55x",
+      "sort": 34,
+      "name": "HHCLUB",
+      "url": "https://hhanclub.top/index.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "HHCLUB"
     }
   ]
 }
