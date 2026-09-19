@@ -1511,12 +1511,12 @@
     },
     {
       "id": "l1113",
-      "name": "梯子设置页面",
+      "name": "梯子设置",
       "url": "https://llyg.cc.cd/admin",
       "icon": "梯",
       "iconUrl": "",
       "color": "#059669",
-      "desc": "",
+      "desc": "cf免费个人梯子设置",
       "categoryId": "c14",
       "sort": 1113,
       "category": "nas相关"
