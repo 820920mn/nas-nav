@@ -779,6 +779,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "影视资源站"
+    },
+    {
+      "id": "id_mu7wi734ydmvk",
+      "sort": 64,
+      "name": "磁力天堂",
+      "url": "https://www.clgod123.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "4K超清蓝光"
     }
   ]
 }
