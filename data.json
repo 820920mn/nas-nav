@@ -231,6 +231,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7vyg1pynfko",
       "desc": "BT下载"
+    },
+    {
+      "id": "id_mu7w0wngsk2mv",
+      "sort": 16,
+      "name": "Transmission",
+      "url": "http://llyg.fun:9091/transmission/web/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7vyg1pynfko",
+      "desc": "BT下载"
     }
   ]
 }
