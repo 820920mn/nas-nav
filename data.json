@@ -1131,6 +1131,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "字幕下载站"
+    },
+    {
+      "id": "id_mu7wkdnka1q1i",
+      "sort": 96,
+      "name": "小幸修改器",
+      "url": "https://www.xiaoxingjie.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "游戏修改器"
     }
   ]
 }
