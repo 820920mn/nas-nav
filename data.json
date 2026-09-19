@@ -548,6 +548,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "高清时间"
+    },
+    {
+      "id": "id_mu7wgn56neaso",
+      "sort": 43,
+      "name": "咖啡",
+      "url": "https://ptcafe.club/index.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "咖啡PT"
     }
   ]
 }
