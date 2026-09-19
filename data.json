@@ -1373,6 +1373,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "IYUU辅种"
+    },
+    {
+      "id": "id_mu7wlphqrmidf",
+      "sort": 118,
+      "name": "雷鲸小站",
+      "url": "https://leijing1.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "天翼云盘交流"
     }
   ]
 }
