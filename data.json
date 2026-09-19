@@ -1120,6 +1120,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "系统镜像下载"
+    },
+    {
+      "id": "id_mu7wkbhc6bfzg",
+      "sort": 95,
+      "name": "字幕库",
+      "url": "https://srtku.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "字幕下载站"
     }
   ]
 }
