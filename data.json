@@ -1197,6 +1197,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "Chrome扩展"
+    },
+    {
+      "id": "id_mu7wkqp72tyi4",
+      "sort": 102,
+      "name": "MacWk",
+      "url": "https://macwk.cn/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "Mac软件下载"
     }
   ]
 }
