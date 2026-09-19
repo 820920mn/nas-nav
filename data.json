@@ -438,6 +438,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "馒头PT"
+    },
+    {
+      "id": "id_mu7wg1f8sn12l",
+      "sort": 33,
+      "name": "HDHome",
+      "url": "http://hdhome.org/index.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "高清家园"
     }
   ]
 }
