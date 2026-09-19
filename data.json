@@ -1498,18 +1498,6 @@
       "category": "nas相关"
     },
     {
-      "id": "l1109",
-      "name": "华为路由AX3 Pr",
-      "url": "http://192.168.3.1/html/index.html#/login",
-      "icon": "华",
-      "iconUrl": "",
-      "color": "#059669",
-      "desc": "",
-      "categoryId": "c14",
-      "sort": 1109,
-      "category": "nas相关"
-    },
-    {
       "id": "l1110",
       "name": "feiniaoyun",
       "url": "https://github.com/feiniaoyun",
