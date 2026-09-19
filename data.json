@@ -1054,6 +1054,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "资源分享站"
+    },
+    {
+      "id": "id_mu7wjyfxa2jg8",
+      "sort": 89,
+      "name": "哔哩哔哩",
+      "url": "https://www.bilibili.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "B站视频"
     }
   ]
 }
