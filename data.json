@@ -1486,18 +1486,6 @@
       "category": "nas相关"
     },
     {
-      "id": "l1104",
-      "name": "auto_feed",
-      "url": "https://greasyfork.org/zh-CN/scripts/424132-auto-feed",
-      "icon": "auto-bangumi-1",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/auto-bangumi-1.png",
-      "color": "#059669",
-      "desc": "",
-      "categoryId": "c14",
-      "sort": 1104,
-      "category": "nas相关"
-    },
-    {
       "id": "l1105",
       "name": "TG免费图床",
       "url": "https://img.llyg.cc.cd/",
