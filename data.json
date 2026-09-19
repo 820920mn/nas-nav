@@ -1153,6 +1153,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "综合资源站"
+    },
+    {
+      "id": "id_mu7wki039b0ty",
+      "sort": 98,
+      "name": "当下软件园",
+      "url": "http://www.downxia.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "绿色软件下载"
     }
   ]
 }
