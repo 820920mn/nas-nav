@@ -129,17 +129,6 @@
       "sort": 1
     },
     {
-      "id": "l9",
-      "name": "Cockpit",
-      "url": "http://nas.local:9090",
-      "icon": "CK",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/c-1.png",
-      "color": "#FFFFFF",
-      "desc": "服务器 Web 管理",
-      "categoryId": "c5",
-      "sort": 2
-    },
-    {
       "id": "l10",
       "name": "transmission",
       "url": "https://tr.llyg.fun:29292/",
@@ -149,17 +138,6 @@
       "desc": "保种工具",
       "categoryId": "c4",
       "sort": 1
-    },
-    {
-      "id": "id_mu7w17s83tmn3",
-      "sort": 17,
-      "name": "Rousi",
-      "url": "https://rousi.zip/attendance.php",
-      "icon": "R",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=rousi.zip&sz=64",
-      "color": "#ffffff",
-      "categoryId": "id_mu7vynq7dou92",
-      "desc": "Rousi PT 签到"
     },
     {
       "id": "id_mu7w1ai2snizp",
