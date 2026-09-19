@@ -1794,18 +1794,6 @@
       "category": "飞牛服务"
     },
     {
-      "id": "id_1789795407311_fn_12",
-      "name": "Transmission",
-      "url": "https://tr.llyg.fun:29292/transmission/web/",
-      "icon": "T",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "BT下载",
-      "categoryId": "c1",
-      "sort": 12,
-      "category": "飞牛服务"
-    },
-    {
       "id": "id_1789795407311_fn_13",
       "name": "道理鱼音乐管理",
       "url": "https://dly.llyg.fun:29292/",
