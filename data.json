@@ -1318,6 +1318,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "网易免费邮箱"
+    },
+    {
+      "id": "id_mu7wlemba217k",
+      "sort": 113,
+      "name": "矿神SPK套件源",
+      "url": "https://spk7.imnks.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "群晖套件源"
     }
   ]
 }
