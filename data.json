@@ -63,6 +63,11 @@
       "id": "id_mu7weo3ozm4jt",
       "name": "PT站点",
       "sort": 9
+    },
+    {
+      "id": "id_mu7weqtb7exjj",
+      "name": "影视资源",
+      "sort": 10
     }
   ],
   "links": [
