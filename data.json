@@ -922,6 +922,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "电影评分"
+    },
+    {
+      "id": "id_mu7wizc31ooa3",
+      "sort": 77,
+      "name": "迅雷电影天堂",
+      "url": "https://xunlei8.top/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "迅雷电影下载"
     }
   ]
 }
