@@ -658,6 +658,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "雨PT"
+    },
+    {
+      "id": "id_mu7wh8v6rvw7p",
+      "sort": 53,
+      "name": "13City",
+      "url": "https://13city.org/index.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "13City"
     }
   ]
 }
