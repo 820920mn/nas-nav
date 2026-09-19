@@ -1487,12 +1487,12 @@
     },
     {
       "id": "l1108",
-      "name": "仪表盘",
+      "name": "flybit",
       "url": "https://flybit.vip/#/dashboard",
-      "icon": "仪",
+      "icon": "flyb",
       "iconUrl": "",
       "color": "#059669",
-      "desc": "",
+      "desc": "机场",
       "categoryId": "c14",
       "sort": 1108,
       "category": "nas相关"
