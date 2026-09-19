@@ -1219,6 +1219,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "mac软件教程"
+    },
+    {
+      "id": "id_mu7wkv1sjvxrx",
+      "sort": 104,
+      "name": "黑苹果动力",
+      "url": "https://www.mfpud.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "黑苹果系统下载"
     }
   ]
 }
