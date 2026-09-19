@@ -603,6 +603,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "蟹黄堡PT"
+    },
+    {
+      "id": "id_mu7wgy07fg94x",
+      "sort": 48,
+      "name": "PANDA",
+      "url": "https://pandapt.net/torrents.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "熊猫高清"
     }
   ]
 }
