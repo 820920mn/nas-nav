@@ -195,83 +195,6 @@
       "sort": 1
     },
     {
-      "id": "id_mu7w01elv638w",
-      "sort": 10,
-      "name": "Lucky",
-      "url": "http://llyg.fun:16601/#/about",
-      "icon": "L",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=llyg.fun&sz=64",
-      "color": "#ffffff",
-      "categoryId": "id_mu7vyg1pynfko",
-      "desc": ""
-    },
-    {
-      "id": "id_mu7w0d5bidh33",
-      "sort": 11,
-      "name": "MoviePilot",
-      "url": "http://llyg.fun:3033/#/dashboard",
-      "icon": "M",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=llyg.fun&sz=64",
-      "color": "#ffffff",
-      "categoryId": "id_mu7vyg1pynfko",
-      "desc": "媒体库管理"
-    },
-    {
-      "id": "id_mu7w0fv6hhnwt",
-      "sort": 12,
-      "name": "Navidrome",
-      "url": "http://llyg.fun:4533/app/#/album/all",
-      "icon": "N",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=llyg.fun&sz=64",
-      "color": "#ffffff",
-      "categoryId": "id_mu7vyg1pynfko",
-      "desc": "音乐流媒体"
-    },
-    {
-      "id": "id_mu7w0ikzde8km",
-      "sort": 13,
-      "name": "OpenList",
-      "url": "http://llyg.fun:5233/",
-      "icon": "O",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=llyg.fun&sz=64",
-      "color": "#ffffff",
-      "categoryId": "id_mu7vyg1pynfko",
-      "desc": "网盘聚合"
-    },
-    {
-      "id": "id_mu7w0r7ul7osr",
-      "sort": 14,
-      "name": "飞牛fnOS",
-      "url": "https://llyg.fun:5667/",
-      "icon": "飞",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=llyg.fun&sz=64",
-      "color": "#ffffff",
-      "categoryId": "id_mu7vyg1pynfko",
-      "desc": "飞牛私有云"
-    },
-    {
-      "id": "id_mu7w0txpzjlrz",
-      "sort": 15,
-      "name": "qBittorrent",
-      "url": "http://llyg.fun:8085/",
-      "icon": "Q",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=llyg.fun&sz=64",
-      "color": "#ffffff",
-      "categoryId": "id_mu7vyg1pynfko",
-      "desc": "BT下载"
-    },
-    {
-      "id": "id_mu7w0wngsk2mv",
-      "sort": 16,
-      "name": "Transmission",
-      "url": "http://llyg.fun:9091/transmission/web/",
-      "icon": "T",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=llyg.fun&sz=64",
-      "color": "#ffffff",
-      "categoryId": "id_mu7vyg1pynfko",
-      "desc": "BT下载"
-    },
-    {
       "id": "id_mu7w17s83tmn3",
       "sort": 17,
       "name": "Rousi",
@@ -2096,6 +2019,204 @@
       "desc": "网络服务",
       "categoryId": "c6",
       "sort": 0
+    },
+    {
+      "id": "id_1789795407311_fn_0",
+      "name": "minfo",
+      "url": "https://minfo.llyg.fun:29292/",
+      "icon": "M",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=minfo.llyg.fun:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "飞牛反代",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 0
+    },
+    {
+      "id": "id_1789795407311_fn_1",
+      "name": "Komga",
+      "url": "https://k.llyg.fun:29292/dashboard",
+      "icon": "K",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=k.llyg.fun:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "漫画阅读器",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 1
+    },
+    {
+      "id": "id_1789795407311_fn_2",
+      "name": "Lsky Pro",
+      "url": "https://lsky.wgg.cc.cd:29292/",
+      "icon": "L",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=lsky.wgg.cc.cd:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "图床",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 2
+    },
+    {
+      "id": "id_1789795407311_fn_3",
+      "name": "凌蓝月光",
+      "url": "https://wgg.cc.cd:29292/",
+      "icon": "凌",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=wgg.cc.cd:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "主页",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 3
+    },
+    {
+      "id": "id_1789795407311_fn_4",
+      "name": "飞牛影视",
+      "url": "https://tv.llyg.fun:29292/v",
+      "icon": "飞",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=tv.llyg.fun:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "影视",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 4
+    },
+    {
+      "id": "id_1789795407311_fn_5",
+      "name": "OpenList",
+      "url": "https://op.llyg.fun:29292/",
+      "icon": "O",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=op.llyg.fun:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "网盘聚合",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 5
+    },
+    {
+      "id": "id_1789795407311_fn_6",
+      "name": "IYUUPlus",
+      "url": "https://iy.llyg.fun:29292/app/admin",
+      "icon": "I",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=iy.llyg.fun:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "IYUU辅种",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 6
+    },
+    {
+      "id": "id_1789795407311_fn_7",
+      "name": "SQMusic",
+      "url": "https://mu.llyg.fun:29292/#/v3search",
+      "icon": "S",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=mu.llyg.fun:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "音乐",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 7
+    },
+    {
+      "id": "id_1789795407311_fn_8",
+      "name": "Chromium",
+      "url": "https://ch.llyg.fun:29292/chromium/",
+      "icon": "C",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=ch.llyg.fun:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "浏览器",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 8
+    },
+    {
+      "id": "id_1789795407311_fn_9",
+      "name": "qBittorrent",
+      "url": "https://qb.llyg.fun:29292/",
+      "icon": "Q",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=qb.llyg.fun:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "BT下载",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 9
+    },
+    {
+      "id": "id_1789795407311_fn_10",
+      "name": "MoviePilot",
+      "url": "https://mp.llyg.fun:29292/#/dashboard",
+      "icon": "M",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=mp.llyg.fun:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "媒体库管理",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 10
+    },
+    {
+      "id": "id_1789795407311_fn_11",
+      "name": "Lucky",
+      "url": "https://lk.llyg.fun:29292/#/about",
+      "icon": "L",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=lk.llyg.fun:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "域名解析",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 11
+    },
+    {
+      "id": "id_1789795407311_fn_12",
+      "name": "Transmission",
+      "url": "https://tr.llyg.fun:29292/transmission/web/",
+      "icon": "T",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=tr.llyg.fun:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "BT下载",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 12
+    },
+    {
+      "id": "id_1789795407311_fn_13",
+      "name": "道理鱼音乐管理",
+      "url": "https://dly.llyg.fun:29292/",
+      "icon": "道",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=dly.llyg.fun:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "音乐管理",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 13
+    },
+    {
+      "id": "id_1789795407311_fn_14",
+      "name": "飞牛fnOS",
+      "url": "https://fnos.llyg.fun:29292/",
+      "icon": "飞",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=fnos.llyg.fun:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "飞牛私有云",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 14
+    },
+    {
+      "id": "id_1789795407311_fn_15",
+      "name": "MetaCubeXD",
+      "url": "https://mcx.llyg.fun:29292/#/overview",
+      "icon": "M",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=mcx.llyg.fun:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "概览面板",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 15
+    },
+    {
+      "id": "id_1789795407311_fn_16",
+      "name": "LitePan",
+      "url": "https://l.wgg.cc.cd:29292/login?redirect=/",
+      "icon": "L",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=l.wgg.cc.cd:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "网盘",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 16
+    },
+    {
+      "id": "id_1789795407311_fn_17",
+      "name": "EasyNVR",
+      "url": "https://en.llyg.fun:29292/cloud/#/home",
+      "icon": "E",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=en.llyg.fun:29292&sz=64",
+      "color": "#FFFFFF",
+      "desc": "监控",
+      "categoryId": "id_mu7vyg1pynfko",
+      "sort": 17
     }
   ]
 }
