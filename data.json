@@ -286,6 +286,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7vynq7dou92",
       "desc": "大青虫 PT 签到"
+    },
+    {
+      "id": "id_mu7w1inuvo3su",
+      "sort": 21,
+      "name": "lajidui",
+      "url": "https://pt.lajidui.top/attendance.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7vynq7dou92",
+      "desc": "lajidui 签到"
     }
   ]
 }
