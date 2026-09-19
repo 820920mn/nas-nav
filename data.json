@@ -636,6 +636,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "PTzone"
+    },
+    {
+      "id": "id_mu7wh4islzd3s",
+      "sort": 51,
+      "name": "PTLGS",
+      "url": "https://ptlgs.org/index.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "PTLGS"
     }
   ]
 }
