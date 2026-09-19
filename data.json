@@ -1252,6 +1252,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "影视导航搜索"
+    },
+    {
+      "id": "id_mu7wl1klypfe0",
+      "sort": 107,
+      "name": "中科大测速",
+      "url": "https://test.ustc.edu.cn/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "网速测试"
     }
   ]
 }
