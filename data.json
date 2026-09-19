@@ -944,6 +944,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "热门影视下载"
+    },
+    {
+      "id": "id_mu7wj3ojt84jz",
+      "sort": 79,
+      "name": "4KHDR世界",
+      "url": "https://4khdr.cn/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "HDR杜比视界资源"
     }
   ]
 }
