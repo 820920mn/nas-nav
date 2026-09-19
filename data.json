@@ -460,6 +460,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "HHCLUB"
+    },
+    {
+      "id": "id_mu7wg5rmx3ei5",
+      "sort": 35,
+      "name": "UBits",
+      "url": "https://ubits.club/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "UBits"
     }
   ]
 }
