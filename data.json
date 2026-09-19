@@ -812,6 +812,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "动漫资源站"
+    },
+    {
+      "id": "id_mu7widltvro5w",
+      "sort": 67,
+      "name": "Torrentgalaxy",
+      "url": "https://unblocked.watch/torrentgalaxy/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "国际BT站"
     }
   ]
 }
