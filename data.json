@@ -1362,6 +1362,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "飞牛社区"
+    },
+    {
+      "id": "id_mu7wlnbgtof3h",
+      "sort": 117,
+      "name": "爱语飞飞",
+      "url": "https://iyuu.cn/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "IYUU辅种"
     }
   ]
 }
