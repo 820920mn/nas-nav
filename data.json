@@ -416,6 +416,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wele21vjx5",
       "desc": "代理面板"
+    },
+    {
+      "id": "id_mu7wfonbtrr1x",
+      "sort": 31,
+      "name": "Transmission",
+      "url": "http://192.168.1.250:9091/transmission/web/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wele21vjx5",
+      "desc": "BT下载"
     }
   ]
 }
