@@ -1163,17 +1163,6 @@
       "sort": 0
     },
     {
-      "id": "id_1789794902872_2",
-      "name": "中国电信智能网关",
-      "url": "http://192.168.1.1/cgi-bin/luci/",
-      "icon": "中",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=192.168.1.1&sz=64",
-      "color": "#FFFFFF",
-      "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
-      "sort": 0
-    },
-    {
       "id": "id_1789794902872_3",
       "name": "闲鱼",
       "url": "https://www.goofish.com/?spm=a21ybx.item.logo.1.19712702SR68hn",
