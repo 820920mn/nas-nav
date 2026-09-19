@@ -372,6 +372,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wele21vjx5",
       "desc": "网盘聚合"
+    },
+    {
+      "id": "id_mu7wffyh1gb0g",
+      "sort": 27,
+      "name": "Music Tag",
+      "url": "http://192.168.1.250:8002/#/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wele21vjx5",
+      "desc": "音乐标签"
     }
   ]
 }
