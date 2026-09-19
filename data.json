@@ -1142,6 +1142,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "游戏修改器"
+    },
+    {
+      "id": "id_mu7wkftt8qn1s",
+      "sort": 97,
+      "name": "资源汇",
+      "url": "https://www.ziyuanhui.cc/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "综合资源站"
     }
   ]
 }
