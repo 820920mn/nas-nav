@@ -1498,18 +1498,6 @@
       "category": "nas相关"
     },
     {
-      "id": "l1111",
-      "name": "Authorize ",
-      "url": "https://github.com/login/oauth/authorize?access_type=offline&client_id=cb9300ca63515154a46f&code_challenge=fZ3xcM43bqJ5dnIxBfNr9pnplkpbTm-wGEPOBxYwP7U&code_challenge_method=S256&login_hint=&prompt=consent&redirect_uri=https%3A%2F%2Flogin.tailscale.com%2Fa%2Foauth_response&response_type=code&scope=user%3Aemail+read%3Aorg&state=tc-x4SNa907Z5AlGzHcR19ddFI",
-      "icon": "git-2",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/git-2.png",
-      "color": "#059669",
-      "desc": "",
-      "categoryId": "c14",
-      "sort": 1111,
-      "category": "nas相关"
-    },
-    {
       "id": "l1112",
       "name": "PiXhost",
       "url": "https://pixhost.cc/",
