@@ -220,6 +220,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7vyg1pynfko",
       "desc": "飞牛私有云"
+    },
+    {
+      "id": "id_mu7w0txpzjlrz",
+      "sort": 15,
+      "name": "qBittorrent",
+      "url": "http://llyg.fun:8085/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7vyg1pynfko",
+      "desc": "BT下载"
     }
   ]
 }
