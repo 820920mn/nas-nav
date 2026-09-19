@@ -581,6 +581,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "青蛙PT"
+    },
+    {
+      "id": "id_mu7wgtntruhjn",
+      "sort": 46,
+      "name": "财神",
+      "url": "https://cspt.top/index.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "财神PT"
     }
   ]
 }
