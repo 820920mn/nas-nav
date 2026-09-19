@@ -264,6 +264,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7vynq7dou92",
       "desc": "CarPT 签到"
+    },
+    {
+      "id": "id_mu7w1d8517w1m",
+      "sort": 19,
+      "name": "GGPT",
+      "url": "https://www.gamegamept.com/attendance.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7vynq7dou92",
+      "desc": "GGPT 签到"
     }
   ]
 }
