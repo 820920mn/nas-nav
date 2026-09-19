@@ -647,6 +647,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "PTLGS"
+    },
+    {
+      "id": "id_mu7wh6oz3o04c",
+      "sort": 52,
+      "name": "雨",
+      "url": "https://raingfh.top/torrents.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "雨PT"
     }
   ]
 }
