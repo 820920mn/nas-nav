@@ -187,6 +187,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7vyg1pynfko",
       "desc": "媒体库管理"
+    },
+    {
+      "id": "id_mu7w0fv6hhnwt",
+      "sort": 12,
+      "name": "Navidrome",
+      "url": "http://llyg.fun:4533/app/#/album/all",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7vyg1pynfko",
+      "desc": "音乐流媒体"
     }
   ]
 }
