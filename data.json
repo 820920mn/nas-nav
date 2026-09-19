@@ -1307,6 +1307,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "Switch游戏"
+    },
+    {
+      "id": "id_mu7wlcg0412jk",
+      "sort": 112,
+      "name": "网易邮箱",
+      "url": "https://email.163.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "网易免费邮箱"
     }
   ]
 }
