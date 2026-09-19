@@ -1602,18 +1602,6 @@
       "category": "工具资源"
     },
     {
-      "id": "id_1789794902872_62",
-      "name": "华为路由AX3 Pro",
-      "url": "http://192.168.3.1/html/index.html#/login",
-      "icon": "华",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/asus-router-1.png",
-      "color": "#FFFFFF",
-      "desc": "工具资源",
-      "categoryId": "c1",
-      "sort": 0,
-      "category": "飞牛服务"
-    },
-    {
       "id": "id_1789794902872_63",
       "name": "feiniaoyun · GitHub",
       "url": "https://github.com/feiniaoyun",
