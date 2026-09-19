@@ -1329,6 +1329,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "群晖套件源"
+    },
+    {
+      "id": "id_mu7wlgskohqwr",
+      "sort": 114,
+      "name": "Flow阅读器",
+      "url": "https://www.flowoss.com/zh-CN",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "在线EPUB阅读"
     }
   ]
 }
