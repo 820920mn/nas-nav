@@ -1043,6 +1043,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "影视动漫分享"
+    },
+    {
+      "id": "id_mu7wjn8mz6hm9",
+      "sort": 88,
+      "name": "123分享",
+      "url": "https://time.123in.link/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "资源分享站"
     }
   ]
 }
