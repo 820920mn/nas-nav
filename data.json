@@ -198,18 +198,6 @@
       "category": "飞牛服务"
     },
     {
-      "id": "id_mu7wfkaxs95nd",
-      "sort": 29,
-      "name": "qBittorrent",
-      "url": "http://192.168.1.250:8085/",
-      "icon": "Q",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "c1",
-      "desc": "BT下载",
-      "category": "飞牛服务"
-    },
-    {
       "id": "id_mu7wfmh3qujiq",
       "sort": 30,
       "name": "yacd",
