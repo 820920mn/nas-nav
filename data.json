@@ -669,6 +669,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "13City"
+    },
+    {
+      "id": "id_mu7whb1f4jpgs",
+      "sort": 54,
+      "name": "NexusPHP",
+      "url": "https://pt.pesyun.top/index.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "NexusPHP"
     }
   ]
 }
