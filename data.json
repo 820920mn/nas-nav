@@ -691,6 +691,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "星陨阁"
+    },
+    {
+      "id": "id_mu7whfduvwk8g",
+      "sort": 56,
+      "name": "蜂巢",
+      "url": "https://pting.club/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "蜂巢PT"
     }
   ]
 }
