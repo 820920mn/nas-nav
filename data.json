@@ -174,18 +174,6 @@
       "category": "飞牛服务"
     },
     {
-      "id": "id_mu7wffyh1gb0g",
-      "sort": 27,
-      "name": "Music Tag",
-      "url": "http://192.168.1.250:8002/#/",
-      "icon": "M",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "c1",
-      "desc": "音乐标签",
-      "category": "飞牛服务"
-    },
-    {
       "id": "id_mu7wfi4qmdok7",
       "sort": 28,
       "name": "飞牛fnOS",
