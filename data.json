@@ -297,6 +297,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7vynq7dou92",
       "desc": "lajidui 签到"
+    },
+    {
+      "id": "id_mu7w1ldobauhb",
+      "sort": 22,
+      "name": "思齐",
+      "url": "https://si-qi.xyz/attendance.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7vynq7dou92",
+      "desc": "思齐 PT 签到"
     }
   ]
 }
