@@ -53,6 +53,11 @@
       "id": "id_mu7vynq7dou92",
       "name": "PT签到",
       "sort": 7
+    },
+    {
+      "id": "id_mu7wele21vjx5",
+      "name": "内网服务",
+      "sort": 8
     }
   ],
   "links": [
