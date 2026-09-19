@@ -1021,6 +1021,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "百度云盘电影"
+    },
+    {
+      "id": "id_mu7wjiw5cutfu",
+      "sort": 86,
+      "name": "66影视网",
+      "url": "https://www.5266ys.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "最新电影电视剧"
     }
   ]
 }
