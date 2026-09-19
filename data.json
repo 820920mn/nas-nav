@@ -174,18 +174,6 @@
       "category": "飞牛服务"
     },
     {
-      "id": "id_mu7wfdsasuf74",
-      "sort": 26,
-      "name": "OpenList",
-      "url": "http://192.168.1.250:5233/",
-      "icon": "O",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "c1",
-      "desc": "网盘聚合",
-      "category": "飞牛服务"
-    },
-    {
       "id": "id_mu7wffyh1gb0g",
       "sort": 27,
       "name": "Music Tag",
