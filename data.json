@@ -1032,6 +1032,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "最新电影电视剧"
+    },
+    {
+      "id": "id_mu7wjl2e63mqo",
+      "sort": 87,
+      "name": "SeedHub",
+      "url": "https://www.seedhub.cc/movies/115513/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "影视动漫分享"
     }
   ]
 }
