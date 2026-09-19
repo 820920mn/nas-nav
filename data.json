@@ -933,6 +933,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "迅雷电影下载"
+    },
+    {
+      "id": "id_mu7wj1icrfg45",
+      "sort": 78,
+      "name": "片吧",
+      "url": "https://www.pianbar.cc/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "热门影视下载"
     }
   ]
 }
