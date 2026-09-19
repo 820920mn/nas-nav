@@ -1164,6 +1164,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "绿色软件下载"
+    },
+    {
+      "id": "id_mu7wkk6dm3bce",
+      "sort": 99,
+      "name": "天翼云盘解析",
+      "url": "https://189.ly93.cc/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "涟漪解析"
     }
   ]
 }
