@@ -284,7 +284,7 @@
     },
     {
       "id": "id_mu7wg5rmx3ei5",
-      "sort": 33,
+      "sort": 0,
       "name": "UBits",
       "url": "https://ubits.club/",
       "icon": "U",
@@ -1435,7 +1435,7 @@
       "color": "#FFFFFF",
       "desc": "PT站点",
       "categoryId": "id_mu7weo3ozm4jt",
-      "sort": 0
+      "sort": 32
     },
     {
       "id": "id_1789794902872_41",
@@ -1446,7 +1446,7 @@
       "color": "#FFFFFF",
       "desc": "PT站点",
       "categoryId": "id_mu7weo3ozm4jt",
-      "sort": 32
+      "sort": 33
     },
     {
       "id": "id_1789794902872_42",
