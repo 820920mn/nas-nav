@@ -900,6 +900,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "BT种子下载"
+    },
+    {
+      "id": "id_mu7wiuzl4jt3h",
+      "sort": 75,
+      "name": "音范丝",
+      "url": "https://www.yinfans.net/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "4K影视资源"
     }
   ]
 }
