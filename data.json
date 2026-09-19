@@ -1230,6 +1230,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "黑苹果系统下载"
+    },
+    {
+      "id": "id_mu7wkx82qnjd9",
+      "sort": 105,
+      "name": "精解OpenCore",
+      "url": "https://blog.daliansky.net/OpenCore-BootLoader.html",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "黑果小兵"
     }
   ]
 }
