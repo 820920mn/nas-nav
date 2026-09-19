@@ -504,6 +504,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "比特校园"
+    },
+    {
+      "id": "id_mu7wgegeobn04",
+      "sort": 39,
+      "name": "AGSVPT",
+      "url": "https://www.agsvpt.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "北极种子保险库"
     }
   ]
 }
