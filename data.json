@@ -427,6 +427,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wele21vjx5",
       "desc": "BT下载"
+    },
+    {
+      "id": "id_mu7wfz923cweq",
+      "sort": 32,
+      "name": "M-Team",
+      "url": "https://next.m-team.cc/index",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "馒头PT"
     }
   ]
 }
