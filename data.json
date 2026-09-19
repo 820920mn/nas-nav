@@ -1296,6 +1296,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "实用软件网站"
+    },
+    {
+      "id": "id_mu7wla9pp042p",
+      "sort": 111,
+      "name": "Switch520",
+      "url": "https://www.gamer520.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "Switch游戏"
     }
   ]
 }
