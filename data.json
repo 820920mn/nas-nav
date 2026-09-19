@@ -737,39 +737,6 @@
       "desc": "高清电影下载"
     },
     {
-      "id": "id_mu7whye7v37cs",
-      "sort": 60,
-      "name": "LOL电影天堂",
-      "url": "https://www.loldyt.com/",
-      "icon": "",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
-      "desc": "BT种子下载"
-    },
-    {
-      "id": "id_mu7wi0kfiynbz",
-      "sort": 61,
-      "name": "MINI4K",
-      "url": "https://www.mini4k.com/",
-      "icon": "",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
-      "desc": "4K电影下载"
-    },
-    {
-      "id": "id_mu7wi2qnkdya0",
-      "sort": 62,
-      "name": "奈飞中文",
-      "url": "https://www.naifei1.org/",
-      "icon": "",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
-      "desc": "影视剧集弹幕网"
-    },
-    {
       "id": "id_mu7wi4wx5k3vi",
       "sort": 63,
       "name": "不太灵影视",
@@ -781,17 +748,6 @@
       "desc": "影视资源站"
     },
     {
-      "id": "id_mu7wi734ydmvk",
-      "sort": 64,
-      "name": "磁力天堂",
-      "url": "https://www.clgod123.com/",
-      "icon": "",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
-      "desc": "4K超清蓝光"
-    },
-    {
       "id": "id_mu7wi99c22u0j",
       "sort": 65,
       "name": "BT之家",
@@ -801,28 +757,6 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "BT下载发布页"
-    },
-    {
-      "id": "id_mu7wibfkaxnwm",
-      "sort": 66,
-      "name": "动漫Nyaa",
-      "url": "https://nyaa.land/",
-      "icon": "",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
-      "desc": "动漫资源站"
-    },
-    {
-      "id": "id_mu7widltvro5w",
-      "sort": 67,
-      "name": "Torrentgalaxy",
-      "url": "https://unblocked.watch/torrentgalaxy/",
-      "icon": "",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
-      "desc": "国际BT站"
     },
     {
       "id": "id_mu7wifrzkndjm",
@@ -845,39 +779,6 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "沸羊羊字幕组"
-    },
-    {
-      "id": "id_mu7wik4fxzzbp",
-      "sort": 70,
-      "name": "动漫花园",
-      "url": "https://dmhy.iwiki.icu/",
-      "icon": "",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
-      "desc": "动漫资源网"
-    },
-    {
-      "id": "id_mu7wimaofvxsc",
-      "sort": 71,
-      "name": "Hao4K",
-      "url": "https://www.hao4k.cn/",
-      "icon": "",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
-      "desc": "家庭影院HiFi"
-    },
-    {
-      "id": "id_mu7wiogyrz7g1",
-      "sort": 72,
-      "name": "观影GYING",
-      "url": "https://www.gying.in/",
-      "icon": "",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
-      "desc": "影视资源站"
     },
     {
       "id": "id_mu7wiqn70y6vk",
@@ -924,17 +825,6 @@
       "desc": "电影评分"
     },
     {
-      "id": "id_mu7wizc31ooa3",
-      "sort": 77,
-      "name": "迅雷电影天堂",
-      "url": "https://xunlei8.top/",
-      "icon": "",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
-      "desc": "迅雷电影下载"
-    },
-    {
       "id": "id_mu7wj1icrfg45",
       "sort": 78,
       "name": "片吧",
@@ -944,28 +834,6 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "热门影视下载"
-    },
-    {
-      "id": "id_mu7wj3ojt84jz",
-      "sort": 79,
-      "name": "4KHDR世界",
-      "url": "https://4khdr.cn/",
-      "icon": "",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
-      "desc": "HDR杜比视界资源"
-    },
-    {
-      "id": "id_mu7wj5uqrmebg",
-      "sort": 80,
-      "name": "hdzyk",
-      "url": "https://www.1080zyk11.com/",
-      "icon": "",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
-      "desc": "高清资源库"
     },
     {
       "id": "id_mu7wj80xc4kzd",
@@ -988,17 +856,6 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "高清MP4下载"
-    },
-    {
-      "id": "id_mu7wjcdgjgzkt",
-      "sort": 83,
-      "name": "网盘电影",
-      "url": "https://www.4ksj.com/4k-wangpan-1.html",
-      "icon": "",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
-      "desc": "网盘电影资源"
     },
     {
       "id": "id_mu7wjejoqrjh2",
@@ -1078,17 +935,6 @@
       "desc": "字幕下载"
     },
     {
-      "id": "id_mu7wk2sfky3ln",
-      "sort": 91,
-      "name": "SimpleHac",
-      "url": "https://www.simplehac.cn/",
-      "icon": "",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
-      "desc": "资源社"
-    },
-    {
       "id": "id_mu7wk4yp1veno",
       "sort": 92,
       "name": "天翼云盘",
@@ -1153,17 +999,6 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "综合资源站"
-    },
-    {
-      "id": "id_mu7wki039b0ty",
-      "sort": 98,
-      "name": "当下软件园",
-      "url": "http://www.downxia.com/",
-      "icon": "",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
-      "desc": "绿色软件下载"
     },
     {
       "id": "id_mu7wkk6dm3bce",
@@ -1340,17 +1175,6 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "在线EPUB阅读"
-    },
-    {
-      "id": "id_mu7wliytq0on1",
-      "sort": 115,
-      "name": "三人行服务包",
-      "url": "https://lastthree.cn/archives/san-ren-xing-fu-wu-bao-last_three_service_package",
-      "icon": "",
-      "iconUrl": "",
-      "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
-      "desc": "服务包合集"
     },
     {
       "id": "id_mu7wll55nmxyx",
