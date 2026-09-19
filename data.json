@@ -768,6 +768,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "影视剧集弹幕网"
+    },
+    {
+      "id": "id_mu7wi4wx5k3vi",
+      "sort": 63,
+      "name": "不太灵影视",
+      "url": "https://www.2bt0.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "影视资源站"
     }
   ]
 }
