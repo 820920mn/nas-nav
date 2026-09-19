@@ -151,17 +151,6 @@
       "desc": "CarPT 签到"
     },
     {
-      "id": "id_mu7w1d8517w1m",
-      "sort": 19,
-      "name": "GGPT",
-      "url": "https://www.gamegamept.com/attendance.php",
-      "icon": "G",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=www.gamegamept.com&sz=64",
-      "color": "#ffffff",
-      "categoryId": "id_mu7vynq7dou92",
-      "desc": "GGPT 签到"
-    },
-    {
       "id": "id_mu7w1fy2ic1au",
       "sort": 20,
       "name": "大青虫",
