@@ -152,12 +152,12 @@
     },
     {
       "id": "l10",
-      "name": "Prowlarr",
-      "url": "http://nas.local:9696",
-      "icon": "PW",
+      "name": "transmission",
+      "url": "https://tr.llyg.fun:29292/",
+      "icon": "TR",
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/prowlarr-1.png",
-      "color": "#FFFFFF",
-      "desc": "索引器管理",
+      "color": "#ffffff",
+      "desc": "保种工具",
       "categoryId": "c4",
       "sort": 1
     },
