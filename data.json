@@ -198,6 +198,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7vyg1pynfko",
       "desc": "音乐流媒体"
+    },
+    {
+      "id": "id_mu7w0ikzde8km",
+      "sort": 13,
+      "name": "OpenList",
+      "url": "http://llyg.fun:5233/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7vyg1pynfko",
+      "desc": "网盘聚合"
     }
   ]
 }
