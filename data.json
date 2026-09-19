@@ -1474,18 +1474,6 @@
       "category": "nas相关"
     },
     {
-      "id": "l1106",
-      "name": "ChunkServe",
-      "url": "https://vf.chunkserve.com/dashboard",
-      "icon": "C",
-      "iconUrl": "",
-      "color": "#059669",
-      "desc": "",
-      "categoryId": "c14",
-      "sort": 1106,
-      "category": "nas相关"
-    },
-    {
       "id": "l1107",
       "name": "容器镜像监控",
       "url": "https://status.1panel.top/",
