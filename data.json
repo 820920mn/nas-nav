@@ -977,6 +977,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "电影下载"
+    },
+    {
+      "id": "id_mu7wja76eheui",
+      "sort": 82,
+      "name": "Mp4电影",
+      "url": "https://www.hdmp4.cc/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "高清MP4下载"
     }
   ]
 }
