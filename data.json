@@ -878,6 +878,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "影视资源站"
+    },
+    {
+      "id": "id_mu7wiqn70y6vk",
+      "sort": 73,
+      "name": "布谷TV",
+      "url": "https://www.bugutv.vip/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "4K电影下载"
     }
   ]
 }
