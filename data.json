@@ -493,6 +493,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "HDFans"
+    },
+    {
+      "id": "id_mu7wgca6rl21c",
+      "sort": 38,
+      "name": "BTSCHOOL",
+      "url": "https://pt.btschool.club/torrents.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "比特校园"
     }
   ]
 }
