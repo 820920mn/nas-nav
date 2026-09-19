@@ -383,6 +383,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wele21vjx5",
       "desc": "音乐标签"
+    },
+    {
+      "id": "id_mu7wfi4qmdok7",
+      "sort": 28,
+      "name": "飞牛fnOS",
+      "url": "http://192.168.1.250:5666/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wele21vjx5",
+      "desc": "飞牛私有云"
     }
   ]
 }
