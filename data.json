@@ -28,41 +28,49 @@
   },
   "categories": [
     {
+      "id": "c1",
       "name": "飞牛服务",
       "icon": "",
       "sort": 0
     },
     {
+      "id": "c2",
       "name": "存储同步",
       "icon": "",
       "sort": 1
     },
     {
+      "id": "c3",
       "name": "下载工具",
       "icon": "",
       "sort": 2
     },
     {
+      "id": "c4",
       "name": "网络服务",
       "icon": "",
       "sort": 3
     },
     {
+      "id": "c5",
       "name": "PT签到",
       "icon": "",
       "sort": 4
     },
     {
+      "id": "c6",
       "name": "PT站点",
       "icon": "",
       "sort": 5
     },
     {
+      "id": "c7",
       "name": "影视资源",
       "icon": "",
       "sort": 6
     },
     {
+      "id": "c8",
       "name": "工具资源",
       "icon": "",
       "sort": 7
@@ -77,7 +85,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/feiniu-media-1.png",
       "color": "#ffffff",
       "desc": "飞牛媒体播放器",
-      "categoryId": "c2",
+      "categoryId": "c1",
       "sort": 0,
       "category": "飞牛服务"
     },
@@ -89,7 +97,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/qbittorrent-1.png",
       "color": "#ffffff",
       "desc": "BT 下载客户端",
-      "categoryId": "c4",
+      "categoryId": "c1",
       "sort": 0,
       "category": "飞牛服务"
     },
@@ -101,7 +109,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/openlist-1.png",
       "color": "#ffffff",
       "desc": "多网盘聚合挂载",
-      "categoryId": "c3",
+      "categoryId": "c1",
       "sort": 1,
       "category": "飞牛服务"
     },
@@ -113,7 +121,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/nginx-proxy-manager-1.png",
       "color": "#FFFFFF",
       "desc": "反向代理管理",
-      "categoryId": "c6",
+      "categoryId": "c1",
       "sort": 1,
       "category": "飞牛服务"
     },
@@ -125,7 +133,7 @@
       "iconUrl": "",
       "color": "#ffffff",
       "desc": "保种工具",
-      "categoryId": "c4",
+      "categoryId": "c1",
       "sort": 1,
       "category": "飞牛服务"
     },
@@ -137,7 +145,7 @@
       "icon": "思",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7vynq7dou92",
+      "categoryId": "c5",
       "desc": "思齐 PT 签到",
       "category": "PT签到"
     },
@@ -149,7 +157,7 @@
       "icon": "M",
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/movie-pilot-1.png",
       "color": "#ffffff",
-      "categoryId": "id_mu7wele21vjx5",
+      "categoryId": "c1",
       "desc": "媒体库管理",
       "category": "飞牛服务"
     },
@@ -161,7 +169,7 @@
       "icon": "N",
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/navidrome-1.png",
       "color": "#ffffff",
-      "categoryId": "id_mu7wele21vjx5",
+      "categoryId": "c1",
       "desc": "音乐流媒体",
       "category": "飞牛服务"
     },
@@ -173,7 +181,7 @@
       "icon": "L",
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/lucky-1.png",
       "color": "#ffffff",
-      "categoryId": "id_mu7wele21vjx5",
+      "categoryId": "c1",
       "desc": "域名解析",
       "category": "飞牛服务"
     },
@@ -185,7 +193,7 @@
       "icon": "O",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wele21vjx5",
+      "categoryId": "c1",
       "desc": "网盘聚合",
       "category": "飞牛服务"
     },
@@ -197,7 +205,7 @@
       "icon": "M",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wele21vjx5",
+      "categoryId": "c1",
       "desc": "音乐标签",
       "category": "飞牛服务"
     },
@@ -209,7 +217,7 @@
       "icon": "飞",
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/feiniu-fnos-1.png",
       "color": "#ffffff",
-      "categoryId": "id_mu7wele21vjx5",
+      "categoryId": "c1",
       "desc": "飞牛私有云",
       "category": "飞牛服务"
     },
@@ -221,7 +229,7 @@
       "icon": "Q",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wele21vjx5",
+      "categoryId": "c1",
       "desc": "BT下载",
       "category": "飞牛服务"
     },
@@ -233,7 +241,7 @@
       "icon": "Y",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wele21vjx5",
+      "categoryId": "c1",
       "desc": "代理面板",
       "category": "飞牛服务"
     },
@@ -245,7 +253,7 @@
       "icon": "T",
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/transmission-1.png",
       "color": "#ffffff",
-      "categoryId": "id_mu7wele21vjx5",
+      "categoryId": "c1",
       "desc": "BT下载",
       "category": "飞牛服务"
     },
@@ -257,7 +265,7 @@
       "icon": "H",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c6",
       "desc": "HDFans",
       "category": "PT站点"
     },
@@ -269,7 +277,7 @@
       "icon": "B",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c6",
       "desc": "比特校园",
       "category": "PT站点"
     },
@@ -281,7 +289,7 @@
       "icon": "A",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c6",
       "desc": "北极种子保险库",
       "category": "PT站点"
     },
@@ -293,7 +301,7 @@
       "icon": "H",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c6",
       "desc": "麒麟PT",
       "category": "PT站点"
     },
@@ -305,7 +313,7 @@
       "icon": "杏",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "desc": "杏坛PT",
       "category": "工具资源"
     },
@@ -317,7 +325,7 @@
       "icon": "H",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c6",
       "desc": "高清时间",
       "category": "PT站点"
     },
@@ -329,7 +337,7 @@
       "icon": "咖",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "desc": "咖啡PT",
       "category": "工具资源"
     },
@@ -341,7 +349,7 @@
       "icon": "D",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "desc": "DiscFan",
       "category": "工具资源"
     },
@@ -353,7 +361,7 @@
       "icon": "车",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c5",
       "desc": "车站PT",
       "category": "PT签到"
     },
@@ -365,7 +373,7 @@
       "icon": "财",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "desc": "财神PT",
       "category": "工具资源"
     },
@@ -377,7 +385,7 @@
       "icon": "蟹",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "desc": "蟹黄堡PT",
       "category": "工具资源"
     },
@@ -389,7 +397,7 @@
       "icon": "P",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "desc": "熊猫高清",
       "category": "工具资源"
     },
@@ -401,7 +409,7 @@
       "icon": "海",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c6",
       "desc": "海棠PT",
       "category": "PT站点"
     },
@@ -413,7 +421,7 @@
       "icon": "P",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c6",
       "desc": "PTzone",
       "category": "PT站点"
     },
@@ -425,7 +433,7 @@
       "icon": "P",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c6",
       "desc": "PTLGS",
       "category": "PT站点"
     },
@@ -437,7 +445,7 @@
       "icon": "1",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "desc": "13City",
       "category": "工具资源"
     },
@@ -449,7 +457,7 @@
       "icon": "星",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "desc": "星陨阁",
       "category": "工具资源"
     },
@@ -461,7 +469,7 @@
       "icon": "蜂",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "desc": "蜂巢PT",
       "category": "工具资源"
     },
@@ -473,7 +481,7 @@
       "icon": "P",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c6",
       "desc": "PT导航大全",
       "category": "PT站点"
     },
@@ -485,7 +493,7 @@
       "icon": "雷",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "desc": "天翼云盘交流",
       "category": "工具资源"
     },
@@ -497,7 +505,7 @@
       "icon": "电",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "desc": "高清电影下载",
       "category": "工具资源"
     },
@@ -509,7 +517,7 @@
       "icon": "不",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "desc": "影视资源站",
       "category": "工具资源"
     },
@@ -521,7 +529,7 @@
       "icon": "B",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "desc": "BT下载发布页",
       "category": "工具资源"
     },
@@ -533,7 +541,7 @@
       "icon": "A",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "desc": "免费看动漫",
       "category": "工具资源"
     },
@@ -545,7 +553,7 @@
       "icon": "M",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c7",
       "desc": "沸羊羊字幕组",
       "category": "影视资源"
     },
@@ -557,7 +565,7 @@
       "icon": "布",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c7",
       "desc": "4K电影下载",
       "category": "影视资源"
     },
@@ -569,7 +577,7 @@
       "icon": "B",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "desc": "BT种子下载",
       "category": "工具资源"
     },
@@ -581,7 +589,7 @@
       "icon": "音",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "desc": "4K影视资源",
       "category": "工具资源"
     },
@@ -593,7 +601,7 @@
       "icon": "豆",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "desc": "电影评分",
       "category": "工具资源"
     },
@@ -605,7 +613,7 @@
       "icon": "片",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "desc": "热门影视下载",
       "category": "工具资源"
     },
@@ -617,7 +625,7 @@
       "icon": "电",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "desc": "电影下载",
       "category": "工具资源"
     },
@@ -629,7 +637,7 @@
       "icon": "M",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "desc": "高清MP4下载",
       "category": "工具资源"
     },
@@ -641,7 +649,7 @@
       "icon": "老",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "desc": "磁力地址发布页",
       "category": "工具资源"
     },
@@ -653,7 +661,7 @@
       "icon": "人",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "desc": "百度云盘电影",
       "category": "工具资源"
     },
@@ -665,7 +673,7 @@
       "icon": "6",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "desc": "最新电影电视剧",
       "category": "工具资源"
     },
@@ -677,7 +685,7 @@
       "icon": "S",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c7",
       "desc": "影视动漫分享",
       "category": "影视资源"
     },
@@ -689,7 +697,7 @@
       "icon": "1",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c2",
       "desc": "资源分享站",
       "category": "存储同步"
     },
@@ -701,7 +709,7 @@
       "icon": "哔",
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/bilibili-1.png",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "B站视频",
       "category": "工具资源"
     },
@@ -713,7 +721,7 @@
       "icon": "S",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c6",
       "desc": "字幕下载",
       "category": "PT站点"
     },
@@ -725,7 +733,7 @@
       "icon": "天",
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/189-drive-1.png",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "天翼云盘",
       "category": "工具资源"
     },
@@ -737,7 +745,7 @@
       "icon": "网",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "全网资源分享",
       "category": "工具资源"
     },
@@ -749,7 +757,7 @@
       "icon": "M",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "系统镜像下载",
       "category": "工具资源"
     },
@@ -761,7 +769,7 @@
       "icon": "字",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "字幕下载站",
       "category": "工具资源"
     },
@@ -773,7 +781,7 @@
       "icon": "小",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "游戏修改器",
       "category": "工具资源"
     },
@@ -785,7 +793,7 @@
       "icon": "资",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "综合资源站",
       "category": "工具资源"
     },
@@ -797,7 +805,7 @@
       "icon": "天",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "涟漪解析",
       "category": "工具资源"
     },
@@ -809,7 +817,7 @@
       "icon": "小",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "活动软件分享",
       "category": "工具资源"
     },
@@ -821,7 +829,7 @@
       "icon": "C",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "Chrome扩展",
       "category": "工具资源"
     },
@@ -833,7 +841,7 @@
       "icon": "M",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "Mac软件下载",
       "category": "工具资源"
     },
@@ -845,7 +853,7 @@
       "icon": "苹",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "mac软件教程",
       "category": "工具资源"
     },
@@ -857,7 +865,7 @@
       "icon": "黑",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "黑苹果系统下载",
       "category": "工具资源"
     },
@@ -869,7 +877,7 @@
       "icon": "精",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "黑果小兵",
       "category": "工具资源"
     },
@@ -881,7 +889,7 @@
       "icon": "可",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "影视导航搜索",
       "category": "工具资源"
     },
@@ -893,7 +901,7 @@
       "icon": "中",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "网速测试",
       "category": "工具资源"
     },
@@ -905,7 +913,7 @@
       "icon": "我",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "NAS资源站",
       "category": "工具资源"
     },
@@ -917,7 +925,7 @@
       "icon": "D",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c4",
       "desc": "DNS解析",
       "category": "网络服务"
     },
@@ -929,7 +937,7 @@
       "icon": "小",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "实用软件网站",
       "category": "工具资源"
     },
@@ -941,7 +949,7 @@
       "icon": "S",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "Switch游戏",
       "category": "工具资源"
     },
@@ -953,7 +961,7 @@
       "icon": "网",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "网易免费邮箱",
       "category": "工具资源"
     },
@@ -965,7 +973,7 @@
       "icon": "矿",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "群晖套件源",
       "category": "工具资源"
     },
@@ -977,7 +985,7 @@
       "icon": "F",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "在线EPUB阅读",
       "category": "工具资源"
     },
@@ -989,7 +997,7 @@
       "icon": "飞",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "飞牛社区",
       "category": "工具资源"
     },
@@ -1001,7 +1009,7 @@
       "icon": "爱",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "IYUU辅种",
       "category": "工具资源"
     },
@@ -1013,7 +1021,7 @@
       "icon": "雷",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "desc": "天翼云盘交流",
       "category": "工具资源"
     },
@@ -1025,7 +1033,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1037,7 +1045,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1049,7 +1057,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/deepseek-1.png",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1061,7 +1069,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1073,7 +1081,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1085,7 +1093,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1097,7 +1105,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1109,7 +1117,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1121,7 +1129,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1133,7 +1141,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "影视资源",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1145,7 +1153,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "影视资源",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c7",
       "sort": 0,
       "category": "影视资源"
     },
@@ -1157,7 +1165,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "影视资源",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c7",
       "sort": 0,
       "category": "影视资源"
     },
@@ -1169,7 +1177,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "影视资源",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c7",
       "sort": 0,
       "category": "影视资源"
     },
@@ -1181,7 +1189,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "影视资源",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c7",
       "sort": 0,
       "category": "影视资源"
     },
@@ -1193,7 +1201,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "影视资源",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c7",
       "sort": 0,
       "category": "影视资源"
     },
@@ -1205,7 +1213,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "影视资源",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c7",
       "sort": 0,
       "category": "影视资源"
     },
@@ -1217,7 +1225,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "影视资源",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c7",
       "sort": 0,
       "category": "影视资源"
     },
@@ -1229,7 +1237,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "影视资源",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1241,7 +1249,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "影视资源",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1253,7 +1261,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "影视资源",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1265,7 +1273,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "影视资源",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1277,7 +1285,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "影视资源",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1289,7 +1297,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "影视资源",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1301,7 +1309,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "影视资源",
-      "categoryId": "id_mu7weqtb7exjj",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1313,7 +1321,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT站点",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1325,7 +1333,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT站点",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1337,7 +1345,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT站点",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1349,7 +1357,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/frds-1.png",
       "color": "#FFFFFF",
       "desc": "PT站点",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c6",
       "sort": 0,
       "category": "PT站点"
     },
@@ -1361,7 +1369,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT站点",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1373,7 +1381,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT站点",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1385,7 +1393,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT站点",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c5",
       "sort": 0,
       "category": "PT签到"
     },
@@ -1397,7 +1405,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT站点",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c6",
       "sort": 0,
       "category": "PT站点"
     },
@@ -1409,7 +1417,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT站点",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1421,7 +1429,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT站点",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1433,7 +1441,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT站点",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c6",
       "sort": 32,
       "category": "PT站点"
     },
@@ -1445,7 +1453,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT站点",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "sort": 33,
       "category": "工具资源"
     },
@@ -1457,7 +1465,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT站点",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c6",
       "sort": 34,
       "category": "PT站点"
     },
@@ -1469,7 +1477,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT站点",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "sort": 35,
       "category": "工具资源"
     },
@@ -1481,7 +1489,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT签到",
-      "categoryId": "id_mu7vynq7dou92",
+      "categoryId": "c6",
       "sort": 0,
       "category": "PT站点"
     },
@@ -1493,7 +1501,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/chd-1.png",
       "color": "#FFFFFF",
       "desc": "PT签到",
-      "categoryId": "id_mu7vynq7dou92",
+      "categoryId": "c6",
       "sort": 0,
       "category": "PT站点"
     },
@@ -1505,7 +1513,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/tjupt-1.png",
       "color": "#FFFFFF",
       "desc": "PT签到",
-      "categoryId": "id_mu7vynq7dou92",
+      "categoryId": "c6",
       "sort": 0,
       "category": "PT站点"
     },
@@ -1517,7 +1525,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "PT签到",
-      "categoryId": "id_mu7vynq7dou92",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1529,7 +1537,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1541,7 +1549,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c6",
       "sort": 0,
       "category": "PT站点"
     },
@@ -1553,7 +1561,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1565,7 +1573,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "网络服务",
-      "categoryId": "c6",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1577,7 +1585,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "网络服务",
-      "categoryId": "c6",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1589,7 +1597,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "网络服务",
-      "categoryId": "c6",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1601,7 +1609,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/asus-router-1.png",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c1",
       "sort": 0,
       "category": "飞牛服务"
     },
@@ -1613,7 +1621,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1625,7 +1633,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1637,7 +1645,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1649,7 +1657,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "网络服务",
-      "categoryId": "c6",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1661,7 +1669,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/docker-1.png",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c4",
       "sort": 0,
       "category": "网络服务"
     },
@@ -1673,7 +1681,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c6",
       "sort": 0,
       "category": "PT站点"
     },
@@ -1685,7 +1693,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "网络服务",
-      "categoryId": "c6",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1697,7 +1705,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c6",
       "sort": 0,
       "category": "PT站点"
     },
@@ -1709,7 +1717,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1721,7 +1729,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1733,7 +1741,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "工具资源",
-      "categoryId": "id_mu7wetiw466fx",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1745,7 +1753,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "网络服务",
-      "categoryId": "c6",
+      "categoryId": "c3",
       "sort": 0,
       "category": "下载工具"
     },
@@ -1757,7 +1765,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "网络服务",
-      "categoryId": "c6",
+      "categoryId": "c8",
       "sort": 0,
       "category": "工具资源"
     },
@@ -1769,7 +1777,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/minio-1.png",
       "color": "#FFFFFF",
       "desc": "飞牛反代",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c1",
       "sort": 0,
       "category": "飞牛服务"
     },
@@ -1781,7 +1789,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/komga-1.png",
       "color": "#FFFFFF",
       "desc": "漫画阅读器",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c1",
       "sort": 1,
       "category": "飞牛服务"
     },
@@ -1793,7 +1801,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/lsky-pro-1.png",
       "color": "#FFFFFF",
       "desc": "图床",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c6",
       "sort": 2,
       "category": "PT站点"
     },
@@ -1805,7 +1813,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "主页",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c8",
       "sort": 3,
       "category": "工具资源"
     },
@@ -1817,7 +1825,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "影视",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c1",
       "sort": 4,
       "category": "飞牛服务"
     },
@@ -1829,7 +1837,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "网盘聚合",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c1",
       "sort": 5,
       "category": "飞牛服务"
     },
@@ -1841,7 +1849,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/iyuu-1.png",
       "color": "#FFFFFF",
       "desc": "IYUU辅种",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c1",
       "sort": 6,
       "category": "飞牛服务"
     },
@@ -1853,7 +1861,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "音乐",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c1",
       "sort": 7,
       "category": "飞牛服务"
     },
@@ -1865,7 +1873,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/chrome-1.png",
       "color": "#FFFFFF",
       "desc": "浏览器",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c1",
       "sort": 8,
       "category": "飞牛服务"
     },
@@ -1877,7 +1885,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "BT下载",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c1",
       "sort": 9,
       "category": "飞牛服务"
     },
@@ -1889,7 +1897,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "媒体库管理",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c1",
       "sort": 10,
       "category": "飞牛服务"
     },
@@ -1901,7 +1909,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "域名解析",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c1",
       "sort": 11,
       "category": "飞牛服务"
     },
@@ -1913,7 +1921,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "BT下载",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c1",
       "sort": 12,
       "category": "飞牛服务"
     },
@@ -1925,7 +1933,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "音乐管理",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c1",
       "sort": 13,
       "category": "飞牛服务"
     },
@@ -1937,7 +1945,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "飞牛私有云",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c1",
       "sort": 14,
       "category": "飞牛服务"
     },
@@ -1949,7 +1957,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/metacube-xd-1.png",
       "color": "#FFFFFF",
       "desc": "概览面板",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c1",
       "sort": 15,
       "category": "飞牛服务"
     },
@@ -1961,7 +1969,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/litepan-1.png",
       "color": "#FFFFFF",
       "desc": "网盘",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c8",
       "sort": 16,
       "category": "工具资源"
     },
@@ -1973,7 +1981,7 @@
       "iconUrl": "",
       "color": "#FFFFFF",
       "desc": "监控",
-      "categoryId": "id_mu7vyg1pynfko",
+      "categoryId": "c1",
       "sort": 17,
       "category": "飞牛服务"
     },
@@ -1985,7 +1993,7 @@
       "icon": "垃",
       "iconUrl": "",
       "color": "#ffffff",
-      "categoryId": "id_mu7weo3ozm4jt",
+      "categoryId": "c8",
       "desc": "垃圾堆PT",
       "category": "工具资源"
     }
