@@ -1263,6 +1263,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "网速测试"
+    },
+    {
+      "id": "id_mu7wl3qw1m3qo",
+      "sort": 108,
+      "name": "我不是矿神",
+      "url": "https://imnks.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "NAS资源站"
     }
   ]
 }
