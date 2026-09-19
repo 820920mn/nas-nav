@@ -988,6 +988,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "高清MP4下载"
+    },
+    {
+      "id": "id_mu7wjcdgjgzkt",
+      "sort": 83,
+      "name": "网盘电影",
+      "url": "https://www.4ksj.com/4k-wangpan-1.html",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "网盘电影资源"
     }
   ]
 }
