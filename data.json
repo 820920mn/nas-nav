@@ -153,7 +153,7 @@
       "id": "id_mu7wfi4qmdok7",
       "sort": 28,
       "name": "飞牛fnOS",
-      "url": "http://192.168.1.250:5666/",
+      "url": "https://fnos.llyg.fun:29292/",
       "icon": "飞",
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/feiniu-fnos-1.png",
       "color": "#ffffff",
@@ -1803,18 +1803,6 @@
       "desc": "音乐管理",
       "categoryId": "c1",
       "sort": 13,
-      "category": "飞牛服务"
-    },
-    {
-      "id": "id_1789795407311_fn_14",
-      "name": "飞牛fnOS",
-      "url": "https://fnos.llyg.fun:29292/",
-      "icon": "飞",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "飞牛私有云",
-      "categoryId": "c1",
-      "sort": 14,
       "category": "飞牛服务"
     },
     {
