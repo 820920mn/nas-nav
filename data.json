@@ -471,6 +471,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "UBits"
+    },
+    {
+      "id": "id_mu7wg7xstm529",
+      "sort": 36,
+      "name": "织梦",
+      "url": "https://zmpt.cc/index.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "织梦PT"
     }
   ]
 }
