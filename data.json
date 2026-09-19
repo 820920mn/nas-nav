@@ -790,6 +790,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "4K超清蓝光"
+    },
+    {
+      "id": "id_mu7wi99c22u0j",
+      "sort": 65,
+      "name": "BT之家",
+      "url": "https://www.1lou.cc/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "BT下载发布页"
     }
   ]
 }
