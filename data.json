@@ -165,6 +165,17 @@
       "desc": "索引器管理",
       "categoryId": "c4",
       "sort": 1
+    },
+    {
+      "id": "id_mu7w01elv638w",
+      "sort": 10,
+      "name": "Lucky",
+      "url": "http://llyg.fun:16601/#/about",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7vyg1pynfko",
+      "desc": ""
     }
   ]
 }
