@@ -823,6 +823,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "国际BT站"
+    },
+    {
+      "id": "id_mu7wifrzkndjm",
+      "sort": 68,
+      "name": "ACG动漫",
+      "url": "https://www.acgkkkk.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "免费看动漫"
     }
   ]
 }
