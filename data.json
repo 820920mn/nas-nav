@@ -328,6 +328,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7vynq7dou92",
       "desc": "思齐 PT 签到"
+    },
+    {
+      "id": "id_mu7wf79mrqckh",
+      "sort": 23,
+      "name": "MoviePilot",
+      "url": "http://192.168.1.250:3033/#/dashboard",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wele21vjx5",
+      "desc": "媒体库管理"
     }
   ]
 }
