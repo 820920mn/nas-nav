@@ -614,6 +614,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "熊猫高清"
+    },
+    {
+      "id": "id_mu7wh06dripdt",
+      "sort": 49,
+      "name": "海棠PT",
+      "url": "https://www.htpt.cc/index.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "海棠PT"
     }
   ]
 }
