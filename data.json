@@ -140,17 +140,6 @@
       "sort": 1
     },
     {
-      "id": "id_mu7w1fy2ic1au",
-      "sort": 20,
-      "name": "大青虫",
-      "url": "https://cyanbug.net/attendance.php",
-      "icon": "大",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/115-drive-1.png",
-      "color": "#ffffff",
-      "categoryId": "id_mu7vynq7dou92",
-      "desc": "大青虫 PT 签到"
-    },
-    {
       "id": "id_mu7w1ldobauhb",
       "sort": 22,
       "name": "思齐",
