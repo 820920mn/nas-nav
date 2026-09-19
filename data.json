@@ -114,18 +114,6 @@
       "category": "飞牛服务"
     },
     {
-      "id": "l8",
-      "name": "Nginx Proxy Manager",
-      "url": "http://nas.local:81",
-      "icon": "N",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/nginx-proxy-manager-1.png",
-      "color": "#FFFFFF",
-      "desc": "反向代理管理",
-      "categoryId": "c1",
-      "sort": 1,
-      "category": "飞牛服务"
-    },
-    {
       "id": "l10",
       "name": "transmission",
       "url": "https://tr.llyg.fun:29292/",
