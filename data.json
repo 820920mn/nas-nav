@@ -1340,6 +1340,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "在线EPUB阅读"
+    },
+    {
+      "id": "id_mu7wliytq0on1",
+      "sort": 115,
+      "name": "三人行服务包",
+      "url": "https://lastthree.cn/archives/san-ren-xing-fu-wu-bao-last_three_service_package",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "服务包合集"
     }
   ]
 }
