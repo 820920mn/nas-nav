@@ -405,6 +405,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wele21vjx5",
       "desc": "BT下载"
+    },
+    {
+      "id": "id_mu7wfmh3qujiq",
+      "sort": 30,
+      "name": "yacd",
+      "url": "http://192.168.1.250:11180/#/proxies",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wele21vjx5",
+      "desc": "代理面板"
     }
   ]
 }
