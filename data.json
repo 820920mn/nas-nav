@@ -350,6 +350,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wele21vjx5",
       "desc": "音乐流媒体"
+    },
+    {
+      "id": "id_mu7wfbm284r9d",
+      "sort": 25,
+      "name": "Lucky",
+      "url": "http://192.168.1.250:16601/#/about",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wele21vjx5",
+      "desc": "域名解析"
     }
   ]
 }
