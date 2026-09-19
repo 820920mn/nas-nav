@@ -1686,18 +1686,6 @@
       "category": "飞牛服务"
     },
     {
-      "id": "id_1789795407311_fn_2",
-      "name": "Lsky Pro",
-      "url": "https://lsky.wgg.cc.cd:29292/",
-      "icon": "L",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/lsky-pro-1.png",
-      "color": "#FFFFFF",
-      "desc": "图床",
-      "categoryId": "c6",
-      "sort": 2,
-      "category": "PT站点"
-    },
-    {
       "id": "id_1789795407311_fn_3",
       "name": "凌蓝月光",
       "url": "https://wgg.cc.cd:29292/",
