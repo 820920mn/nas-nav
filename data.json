@@ -140,17 +140,6 @@
       "sort": 1
     },
     {
-      "id": "id_mu7w1ai2snizp",
-      "sort": 18,
-      "name": "CarPT",
-      "url": "https://carpt.net/attendance.php",
-      "icon": "C",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/c-1.png",
-      "color": "#ffffff",
-      "categoryId": "id_mu7vynq7dou92",
-      "desc": "CarPT 签到"
-    },
-    {
       "id": "id_mu7w1fy2ic1au",
       "sort": 20,
       "name": "大青虫",
