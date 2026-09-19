@@ -1109,6 +1109,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "全网资源分享"
+    },
+    {
+      "id": "id_mu7wk9b5r4gdo",
+      "sort": 94,
+      "name": "MSDN我告诉你",
+      "url": "https://msdn.itellyou.cn/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "系统镜像下载"
     }
   ]
 }
