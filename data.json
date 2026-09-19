@@ -867,6 +867,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "家庭影院HiFi"
+    },
+    {
+      "id": "id_mu7wiogyrz7g1",
+      "sort": 72,
+      "name": "观影GYING",
+      "url": "https://www.gying.in/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "影视资源站"
     }
   ]
 }
