@@ -1770,18 +1770,6 @@
       "category": "飞牛服务"
     },
     {
-      "id": "id_1789795407311_fn_9",
-      "name": "qBittorrent",
-      "url": "https://qb.llyg.fun:29292/",
-      "icon": "Q",
-      "iconUrl": "",
-      "color": "#FFFFFF",
-      "desc": "BT下载",
-      "categoryId": "c1",
-      "sort": 9,
-      "category": "飞牛服务"
-    },
-    {
       "id": "id_1789795407311_fn_10",
       "name": "MoviePilot",
       "url": "https://mp.llyg.fun:29292/#/dashboard",
