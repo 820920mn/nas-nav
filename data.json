@@ -1065,6 +1065,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "B站视频"
+    },
+    {
+      "id": "id_mu7wk0m6qx3bu",
+      "sort": 90,
+      "name": "SUBHD字幕",
+      "url": "https://subhd.tv/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "字幕下载"
     }
   ]
 }
