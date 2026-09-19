@@ -526,6 +526,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "麒麟PT"
+    },
+    {
+      "id": "id_mu7wgisrofcac",
+      "sort": 41,
+      "name": "杏坛",
+      "url": "https://xingtan.one/index.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "杏坛PT"
     }
   ]
 }
