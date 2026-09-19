@@ -482,6 +482,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weo3ozm4jt",
       "desc": "织梦PT"
+    },
+    {
+      "id": "id_mu7wga40pip49",
+      "sort": 37,
+      "name": "HDFans",
+      "url": "https://hdfans.org/index.php",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weo3ozm4jt",
+      "desc": "HDFans"
     }
   ]
 }
