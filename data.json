@@ -911,6 +911,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "4K影视资源"
+    },
+    {
+      "id": "id_mu7wix5v5nnqh",
+      "sort": 76,
+      "name": "豆瓣电影",
+      "url": "https://movie.douban.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "电影评分"
     }
   ]
 }
