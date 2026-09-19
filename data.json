@@ -1241,6 +1241,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "黑果小兵"
+    },
+    {
+      "id": "id_mu7wkzec5h17e",
+      "sort": 106,
+      "name": "可乐影视",
+      "url": "https://www.klyingshi3.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "影视导航搜索"
     }
   ]
 }
