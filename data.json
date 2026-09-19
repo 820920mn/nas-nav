@@ -999,6 +999,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "网盘电影资源"
+    },
+    {
+      "id": "id_mu7wjejoqrjh2",
+      "sort": 84,
+      "name": "老王磁力",
+      "url": "https://lwdizhi.top/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "磁力地址发布页"
     }
   ]
 }
