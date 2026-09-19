@@ -1274,6 +1274,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wetiw466fx",
       "desc": "NAS资源站"
+    },
+    {
+      "id": "id_mu7wl5x69c0wd",
+      "sort": 109,
+      "name": "DNSPod",
+      "url": "https://console.dnspod.cn/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wetiw466fx",
+      "desc": "DNS解析"
     }
   ]
 }
