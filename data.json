@@ -735,6 +735,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "高清电影下载"
+    },
+    {
+      "id": "id_mu7whye7v37cs",
+      "sort": 60,
+      "name": "LOL电影天堂",
+      "url": "https://www.loldyt.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "BT种子下载"
     }
   ]
 }
