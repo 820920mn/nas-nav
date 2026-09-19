@@ -394,6 +394,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7wele21vjx5",
       "desc": "飞牛私有云"
+    },
+    {
+      "id": "id_mu7wfkaxs95nd",
+      "sort": 29,
+      "name": "qBittorrent",
+      "url": "http://192.168.1.250:8085/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7wele21vjx5",
+      "desc": "BT下载"
     }
   ]
 }
