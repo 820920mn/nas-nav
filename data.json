@@ -966,6 +966,17 @@
       "color": "#ffffff",
       "categoryId": "id_mu7weqtb7exjj",
       "desc": "高清资源库"
+    },
+    {
+      "id": "id_mu7wj80xc4kzd",
+      "sort": 81,
+      "name": "电影天堂",
+      "url": "https://dy2018.com/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#ffffff",
+      "categoryId": "id_mu7weqtb7exjj",
+      "desc": "电影下载"
     }
   ]
 }
