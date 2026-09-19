@@ -119,11 +119,11 @@
     },
     {
       "id": "l7",
-      "name": "Alist",
-      "url": "http://nas.local:5244",
-      "icon": "AL",
+      "name": "OpenList",
+      "url": "https://op.llyg.fun:29292/",
+      "icon": "o",
       "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/alist-1.png",
-      "color": "#FFFFFF",
+      "color": "#ffffff",
       "desc": "多网盘聚合挂载",
       "categoryId": "c3",
       "sort": 1
