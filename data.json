@@ -150,18 +150,6 @@
       "category": "飞牛服务"
     },
     {
-      "id": "id_mu7wfbm284r9d",
-      "sort": 25,
-      "name": "Lucky",
-      "url": "http://192.168.1.250:16601/#/about",
-      "icon": "L",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/lucky-1.png",
-      "color": "#ffffff",
-      "categoryId": "c1",
-      "desc": "域名解析",
-      "category": "飞牛服务"
-    },
-    {
       "id": "id_mu7wfi4qmdok7",
       "sort": 28,
       "name": "飞牛fnOS",
