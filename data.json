@@ -1,5 +1,31 @@
 {
-  "settings": {},
+  "settings": {
+    "title": "undefined",
+    "heroTitle": "undefined",
+    "heroSubtitle": "undefined",
+    "footer": "undefined",
+    "icp": "",
+    "logoUrl": "",
+    "theme": "green",
+    "cardStyle": "default",
+    "bgType": "none",
+    "bgColor": "#f2f6f4",
+    "bgImage": "",
+    "bgOpacity": 100,
+    "titleFont": "",
+    "titleSize": "",
+    "titleColor": "#16251f",
+    "subtitleFont": "",
+    "subtitleSize": "",
+    "subtitleColor": "#4a6358",
+    "footerFont": "",
+    "footerSize": "",
+    "footerColor": "#8aa397",
+    "showVisitorIp": true,
+    "showFlag": true,
+    "showClock": true,
+    "password": "820920nn"
+  },
   "categories": [
     {
       "id": "c1",
