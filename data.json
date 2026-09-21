@@ -266,10 +266,10 @@
     {
       "id": "l2",
       "name": "llyg.cc.cd",
-      "url": "https://llyg.cc.cd/",
+      "url": "https://llyg.cc.cd/admin",
       "icon": "nginx-1",
       "iconUrl": "https://iconic.wgg.cc.cd:29292/icons/thumbnails/border-radius/nginx-1.png",
-      "color": "#FFFFFF",
+      "color": "#ffffff",
       "desc": "凌蓝月光域名首页",
       "categoryId": "c1",
       "sort": 20
