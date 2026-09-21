@@ -262,6 +262,17 @@
       "categoryId": "c1",
       "sort": 19,
       "category": "飞牛"
+    },
+    {
+      "id": "l2",
+      "name": "llyg.cc.cd",
+      "url": "https://llyg.cc.cd/",
+      "icon": "",
+      "iconUrl": "",
+      "color": "#FFFFFF",
+      "desc": "凌蓝月光域名首页",
+      "categoryId": "c1",
+      "sort": 20
     }
   ]
 }
