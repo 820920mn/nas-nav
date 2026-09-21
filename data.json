@@ -349,6 +349,17 @@
       "color": "#ffffff",
       "categoryId": "id_mualp17l63ho1",
       "desc": "代理机场订阅"
+    },
+    {
+      "id": "id_mualtaoea1ibh",
+      "sort": 26,
+      "name": "一分机场",
+      "url": "https://xn--4gqx1hgtfdmt.com/#/register?code=amxMTu8j",
+      "icon": "一分",
+      "iconUrl": "https://iconic.wgg.cc.cd:29292/icons/HD-Icons/border-radius/superset-1.png",
+      "color": "#ffffff",
+      "categoryId": "id_mualp17l63ho1",
+      "desc": "机场"
     }
   ]
 }
