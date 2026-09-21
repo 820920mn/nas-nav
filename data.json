@@ -257,18 +257,6 @@
       "category": "软件"
     },
     {
-      "id": "l1002",
-      "name": "AI 编程",
-      "url": "https://www.doubao.com/chat/drive/?from=sidebar_ai_drive",
-      "icon": "doubao-1",
-      "iconUrl": "https://iconic.wgg.cc.cd:29292/icons/thumbnails/border-radius/doubao-1.png",
-      "color": "#059669",
-      "desc": "",
-      "categoryId": "c9",
-      "sort": 1002,
-      "category": "软件"
-    },
-    {
       "id": "l1003",
       "name": "中国电信智能网关",
       "url": "http://192.168.1.1/cgi-bin/luci/",
