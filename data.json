@@ -182,9 +182,9 @@
       "name": "qBittorrent",
       "url": "https://qb.llyg.fun:29292/",
       "icon": "qbitmanage-1",
-      "iconUrl": "https://iconic.wgg.cc.cd:29292/icons/thumbnails/border-radius/qbitmanage-1.png",
+      "iconUrl": "https://iconic.wgg.cc.cd:29292/icons/HD-Icons/border-radius/qbittorrent-1.png",
       "color": "#ffffff",
-      "desc": "",
+      "desc": "下载器",
       "categoryId": "c1",
       "sort": 12,
       "category": "飞牛"
