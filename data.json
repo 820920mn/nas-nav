@@ -311,6 +311,17 @@
       "color": "#ffffff",
       "categoryId": "id_muakpgqqwzdyk",
       "desc": "免费公共图床"
+    },
+    {
+      "id": "id_mualf3dssfoja",
+      "sort": 23,
+      "name": "PT站点监护",
+      "url": "https://savept.icu/",
+      "icon": "PT",
+      "iconUrl": "data:image/png;base64,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",
+      "color": "#ffffff",
+      "categoryId": "c1",
+      "desc": "PT站点晴雨表"
     }
   ]
 }
