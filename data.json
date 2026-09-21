@@ -257,18 +257,6 @@
       "category": "软件"
     },
     {
-      "id": "l1003",
-      "name": "中国电信智能网关",
-      "url": "http://192.168.1.1/cgi-bin/luci/",
-      "icon": "中",
-      "iconUrl": "",
-      "color": "#059669",
-      "desc": "",
-      "categoryId": "c9",
-      "sort": 1003,
-      "category": "软件"
-    },
-    {
       "id": "l1004",
       "name": "天翼云盘解析",
       "url": "https://189.ly93.cc/",
