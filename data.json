@@ -37,6 +37,11 @@
       "id": "id_muakpgqqwzdyk",
       "name": "nas相关服务",
       "sort": 1
+    },
+    {
+      "id": "id_mualp17l63ho1",
+      "name": "网络服务",
+      "sort": 2
     }
   ],
   "links": [
