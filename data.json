@@ -322,6 +322,17 @@
       "color": "#ffffff",
       "categoryId": "id_muakpgqqwzdyk",
       "desc": "PT站点晴雨表"
+    },
+    {
+      "id": "id_mualksxumdlhp",
+      "sort": 24,
+      "name": "中科大测速网",
+      "url": "https://test.ustc.edu.cn/",
+      "icon": "测速",
+      "iconUrl": "https://iconic.wgg.cc.cd:29292/icons/HD-Icons/svg/snapdrop-1.svg",
+      "color": "#ffffff",
+      "categoryId": "id_muakpgqqwzdyk",
+      "desc": "网络测速"
     }
   ]
 }
