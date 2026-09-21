@@ -300,6 +300,17 @@
       "color": "#ffffff",
       "categoryId": "id_muakpgqqwzdyk",
       "desc": "猫站专属图床"
+    },
+    {
+      "id": "id_muakwvaih7bry",
+      "sort": 22,
+      "name": "免费公共图床",
+      "url": "https://pixhost.cc/",
+      "icon": "Pixh",
+      "iconUrl": "https://iconic.wgg.cc.cd:29292/icons/HD-Icons/border-radius/immich-1.png",
+      "color": "#ffffff",
+      "categoryId": "c1",
+      "desc": "免费公共图床"
     }
   ]
 }
