@@ -1683,6 +1683,17 @@
       "categoryId": "c14",
       "sort": 1127,
       "category": "nas相关"
+    },
+    {
+      "id": "id_muahcx8mjn77s",
+      "sort": 137,
+      "name": "CF梯子后台管理",
+      "url": "https://llyg.cc.cd/",
+      "icon": "CF",
+      "iconUrl": "https://iconic.wgg.cc.cd:29292/icons/HD-Icons/svg/cloudflare-2.svg",
+      "color": "#ffffff",
+      "categoryId": "c1",
+      "desc": "cloudflare免费梯子管理"
     }
   ]
 }
