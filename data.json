@@ -685,12 +685,12 @@
     },
     {
       "id": "bk051",
-      "name": "有声书",
-      "url": "https://ab.llyg.fun:29292/",
-      "icon": "有声书",
+      "name": "网址导航",
+      "url": "https://l.llyg.cc.cd/",
+      "icon": "导航",
       "iconUrl": "https://iconic.wgg.cc.cd:29292/icons/upload/_______459ebe.png",
       "color": "#059669",
-      "desc": "声听天下",
+      "desc": "网址导航",
       "categoryId": "fn_out",
       "category": "飞牛外网",
       "sort": 0
