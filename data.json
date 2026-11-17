@@ -7,7 +7,7 @@
     "icp": "",
     "logoUrl": "",
     "theme": "green",
-    "cardStyle": "inset",
+    "cardStyle": "float3d",
     "bgType": "none",
     "bgColor": "#f2f6f4",
     "bgImage": "",
