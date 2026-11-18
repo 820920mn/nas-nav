@@ -1954,6 +1954,18 @@
       "categoryId": "nas2_out",
       "category": "飞牛外网",
       "sort": 2
+    },
+    {
+      "id": "bk180",
+      "name": "Octop",
+      "url": "https://wgg.cc.cd:29292/",
+      "icon": "Octop",
+      "iconUrl": "https://iconic.wgg.cc.cd:29292/icons/upload/Octop.png",
+      "color": "#059669",
+      "desc": "AI 助手 · 常驻 NAS，可对话、执行与管理容器",
+      "categoryId": "nas_out",
+      "category": "飞牛反代 · 外网",
+      "sort": 21
     }
   ]
 }
